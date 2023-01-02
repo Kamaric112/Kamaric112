@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+There is the land where I share my projects and take a break.
+
+- 💞️ I am a frontend developer, also a problem solver. I am motivated to build simple and elegant websites that are visually pleasing and user-friendly
+- 🌱 I’m currently learning ReactJS and NextJS recently.
+- 😀 I like to code, read and watch Better Call Saul (insert theme song)
+- 📫 How to reach me: Email: qu.truong99@gmail.com
+
+
 <!--
 **Kamaric112/Kamaric112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
