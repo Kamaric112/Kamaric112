@@ -2,9 +2,9 @@
 
 There is the place where I share my personal projects and take a break.
 
-- 💞️ I am a frontend developer, also a problem solver. I am motivated to build websites that are visually pleasing and user-friendly
+- 💞️ I am a full-stack developer, also a problem solver. I am motivated to build websites that are visually pleasing and user-friendly
 - 🌱 I’m currently working experiences with Angular and React (Typescript).
-- 🤔 I’m also learning Vue for my personal projects.
+- 🤔 I’m also learning Vue and Django for my personal projects and for my current job.
 - 😀 I like to code, read and watch Better Call Saul and it's memes.
 - 📫 How to reach me: Email: qu.truong99@gmail.com.
 
